@@ -1,0 +1,37 @@
+Hiya!
+Frosty / H here! This is not a readme!
+
+This project is Pygram, which is meant to be a threat modeling security diagram tool. As the name implies, it's written in Python- specifically it uses PyQt, which is... fun. Actually PyQt is cool, but it is difficult for me to work with.
+
+What you're reading right now is a text file I am- at least for now- keeping in the folder. It's going to be used for "documentation" (basically notes about stuff.) As well as an explanation of who I am, how to use the app, and potential other things you can do with it. Primarily this document is to help anybody who might want to fork it or just modify it however they'd like. It will also be used as a changelog. Old versions are not included in this folder, though.
+
+
+
+User Guide
+
+
+
+
+
+
+
+Developer Documentation
+main.py: The program initiates from here. It just amounts to "Start and load the stuff."
+
+
+
+
+
+
+
+
+
+H
+A quick about me if you're curious. My full name is Marcus Bednarik, but most people call me Frosty. As of June 2025, I am a fairly novice programmer who was tasked to figure out and make cool shit. For early versions, this project was entirely developed by me over the course of about a month and a half. Turns out, programming takes a while! Who knew?
+Being a pretty novice programmer, there are a billion things to improve, all the time. If you know what you're doing, I bet you could take this code and make it 50x more efficient. But it's still a fun and interesting project, and I hope it helps people; that's really the goal of this.
+I am going to school for Cyber Security, and figured a program like this would be wonderful. And there's plenty of blueprints to take inspiration from!
+This document has a bunch of documentation and I've included some comments and such. If you're also a relatively novice programmer, I hope I explain everything in a way that makes at least some sense, so maybe you can create a new project based on it!
+
+
+
+Developer Guide (
