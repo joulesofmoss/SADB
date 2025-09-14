@@ -1,0 +1,9 @@
+# Core requirements for SADB
+# To use, run [ pip install -r requirements.txt ] without the brackets!
+PyQt6 >= 6.4.0
+PyQt6-Qt6 >= 6.4.0
+pytm >= 1.3.0
+Pillow >= 9.0.0
+reportlab>= 3.6.0
+#Platform specific packages (install manually)
+# winshell - Windows only, used for desktop shortcuts
